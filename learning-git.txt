@@ -1,0 +1,11 @@
+git config --list
+git config --global user.name junya-takahara
+git config --global user.email jtakahara00@gmail.com
+git init
+
+
+
+
+
+
+
