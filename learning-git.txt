@@ -2,6 +2,19 @@ git config --list
 git config --global user.name junya-takahara
 git config --global user.email jtakahara00@gmail.com
 git init
+git branch
+git status
+git log
+git stash
+git add
+git diff
+git push
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/junya-takahara/learning-programing.git
+git branch -M main
+git push -u origin main
 
 
 
